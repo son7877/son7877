@@ -1,5 +1,8 @@
 ### Studying 🌱
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=black) ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)   
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=black) 
+
+### project ✨  
+![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)  
 
 ### Tools 📫
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
