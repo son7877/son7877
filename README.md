@@ -17,7 +17,6 @@
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=black) 
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son7877)](https://solved.ac/son7877)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbeom&&theme=dradula)  
 
 
 
