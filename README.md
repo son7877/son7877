@@ -18,7 +18,12 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son7877)](https://solved.ac/son7877)  
 
-[![HongBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=son7877)](https://github.com/son7877/github-readme-stats)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=son7877" alt="HongBeom's GitHub stats" style="height: 195px; margin: 0;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&hide=javascript,html" alt="Top Langs" style="height: 195px; margin: 0;"/>
+</div>
+
+
 
 <!--
 **son7877/son7877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
