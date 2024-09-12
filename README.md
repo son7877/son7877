@@ -10,16 +10,24 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   
   ### Studying 🌱
+  
+  ![IOS](https://img.shields.io/badge/IOS-black.svg?&style=for-the-badge&logo=apple&logoColor=white)
+  ![Swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
   ![mongodb](https://img.shields.io/badge/mongodb-2CA01C.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  
   ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+  
+  
+  
+  ### project ✨  
+  
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white)
+  ![UIKit](https://img.shields.io/badge/UIKit-lightgrey?style=for-the-badge&logo=apple&logoColor=white)
   ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
-  ### project ✨  
-  ![unity](https://img.shields.io/badge/unity-E8E8E8.svg?&style=for-the-badge&logo=unity&logoColor=black)  
-
   ### Tools 📫
+  ![xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white)
   ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
   ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
   ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=black) 
