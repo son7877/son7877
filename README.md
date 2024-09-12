@@ -14,7 +14,6 @@
   ![IOS](https://img.shields.io/badge/IOS-black.svg?&style=for-the-badge&logo=apple&logoColor=white)
   ![Swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-  ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
   ![mongodb](https://img.shields.io/badge/mongodb-2CA01C.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  
   ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
   
