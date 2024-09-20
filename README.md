@@ -38,4 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&hide=javascript,html" alt="Top Langs" style="height: 195px; margin: 0;"/>
   </div>
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=son7877&theme=default)](https://git.io/streak-stats)
+
 </div>
