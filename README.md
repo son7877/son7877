@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&animation=fadeIn)
 
-  ### 👋 Hello, I'm HongBeom!
+  ### 👋 Hello, I'm HongBeom dreaming of IOS developer!
   
 
   ![Profile Views](https://komarev.com/ghpvc/?username=son7877&color=blueviolet) ![Followers](https://img.shields.io/github/followers/son7877?style=social)
