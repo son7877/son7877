@@ -50,7 +50,3 @@
 - **Top Languages:**
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&layout=compact&hide=javascript,html)
-
-- **GitHub Streak:**
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=son7877&theme=default)
