@@ -39,9 +39,9 @@
 
 ### 📊 Stats
 
-- **[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son7877):**
+- **[Solved.ac Profile](https://solved.ac/profile/son7877):**
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son7877)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=son7877)](https://solved.ac/profile/son7877)
 
 - **GitHub Stats:**
 
