@@ -18,6 +18,9 @@
 ![mongodb](https://img.shields.io/badge/mongodb-2CA01C.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+#### 📔 Studying Note
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)]([https://your-notion-link.com](https://www.notion.so/IOS-1124636228fa80afa7c4dc02b82ef136#17d4636228fa80018934d7031c2534dd))
+
 ---
 
 ### ✨ Project
@@ -49,4 +52,4 @@
 
 - **Top Languages:**
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&layout=compact&hide=javascript,html)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&layout=compact&hide=javascript,html) 
