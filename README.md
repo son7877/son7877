@@ -1,6 +1,6 @@
 <div align="left">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn)
 
   ### 👋 Hello, I'm HongBeom dreaming of IOS developer!
   
