@@ -42,7 +42,7 @@
 
 ### 📊 Stats
 
-- **[Solved.ac Profile](https://solved.ac/profile/son7877):**
+- **Solved.ac Profile:**
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son7877)](https://solved.ac/profile/son7877)
   [![son7877's daily solved.ac stats](http://mazandi.herokuapp.com/api?handle=son7877&theme=cold)](https://solved.ac/profile/son7877)
