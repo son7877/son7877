@@ -51,11 +51,12 @@
 - **GitHub Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son7877&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=007acc&text_color=000000&title_color=007acc&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=son7877&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=son7877&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=007acc&text_color=000000&title_color=007acc&count_private=true" width="56%" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=son7877&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=son7877&theme=light&bg_color=ffffff&hide_border=true&line=007acc&color=007acc" width="94%" />
 </a>
+
