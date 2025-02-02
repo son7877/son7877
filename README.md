@@ -61,10 +61,10 @@
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=son7877&theme=light&bg_color=ffffff&hide_border=true&line=007acc&color=007acc" width="94%" />
-  </a>  
+  </a>
+  <br></br>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=son7877&color=blueviolet) ![Followers](https://img.shields.io/github/followers/son7877?style=social)
 </div>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=son7877&color=blueviolet) ![Followers](https://img.shields.io/github/followers/son7877?style=social)
 
