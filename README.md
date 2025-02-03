@@ -12,7 +12,7 @@
 ![mongodb](https://img.shields.io/badge/mongodb-2CA01C.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-#### 📔 Studying Note
+#### 📔 Studying Note (link)
 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
