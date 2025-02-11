@@ -14,7 +14,9 @@
 
 #### 📔 Studying Note (link)
 
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+<a href="https://www.notion.so/IOS-1124636228fa80afa7c4dc02b82ef136">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link"/>
+</a>
 
 ---
 
