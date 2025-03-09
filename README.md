@@ -1,9 +1,3 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn)
-  
-</div>
-
 ### 🌱 Studying
 
 ![IOS](https://img.shields.io/badge/IOS-black.svg?&style=for-the-badge&logo=apple&logoColor=white)
