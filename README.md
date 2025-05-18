@@ -39,9 +39,9 @@
     <a href="https://solved.ac/profile/son7877">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=son7877" alt="Solved.ac Profile" width="47%" />
     </a>
-    <a href="https://solved.ac/profile/son7877">
+<!--     <a href="https://solved.ac/profile/son7877">
         <img src="http://mazandi.herokuapp.com/api?handle=son7877&theme=cold" alt="Daily Solved.ac Stats" width="47%" />
-    </a>
+    </a> -->
 </div>
 
 
